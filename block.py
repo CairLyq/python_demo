@@ -15,7 +15,7 @@ Tvm = './temp/ViewModel.ets'
 
 # 日期
 date = time.strftime('%Y-%m-%D %H:%M:%S', time.localtime())
-author = '永青'
+author = 'Your Name'
 ##############################################################
 
 
